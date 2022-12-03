@@ -9,7 +9,7 @@ Shiva Sai Sampath Kumar (UK1017)
 Bhuvana Prakash (TI5686)
 
 
-[Status Report](https://github.com/Kishan19961998/StreamingPlatForm_CarAccident/blob/main/Status%20Report.docx)
+[Status Report](https://github.com/Kishan19961998/StreamingPlatForm_CarAccident/blob/main/StatusReport.docx)
 
 [Final Report](https://github.com/Kishan19961998/StreamingPlatForm_CarAccident/blob/main/Final%20Report-1.docx)
 
